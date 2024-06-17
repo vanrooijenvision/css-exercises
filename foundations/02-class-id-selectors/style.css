@@ -1,0 +1,19 @@
+p {
+    background-color:#EDA798; 
+    font-family:Verdana, "DejaVu Sans", sans-serif ;
+}
+
+#id-one {
+    color:#0b5cfe;
+    font-size: 36px;
+}
+
+.class-two {
+    font-size: 24px;
+}
+
+#id-two {
+    background-color: rgb(170, 247, 170);
+    font-size: 24px;
+    font-weight: bold;
+}
